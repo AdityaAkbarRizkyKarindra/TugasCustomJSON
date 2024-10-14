@@ -1,0 +1,23 @@
+{
+    "Kartu Grafis": [
+      {
+        "IdProduk": 2024,
+        "KodeProduk": 2210441001,
+        "NamaProduk": "BURUNG MERPATI",
+        "HargaModal": 200000,
+        "HargaJual": 250000,
+        "HargaDiskon": 230000,
+        "Stok": "10"
+      },
+      {
+        "IdProduk": 2025,
+        "KodeProduk": 2210441002,
+        "NamaProduk": "BURUNG DARA",
+        "HargaModal": 300000,
+        "HargaJual": 350000,
+        "HargaDiskon": 330000,
+        "Stok": "5"
+      }
+    ]
+  }
+  
